@@ -10,3 +10,5 @@ Añadiendo un grafico del balance de la cartera, y almacenando la información d
 Podrá mirar el balancio actual y con respecto al mes.
 Consultar Noticias relacionadas, 
 
+CHRISTIAN TRILLO MOUZO <3
+a17christiantm@iessanclemente.net
